@@ -1,0 +1,32 @@
+{
+  "name": "bookshelf-proxy-model",
+  "version": "1.0.0",
+  "description": "Eliminates the need to use .get and .set with Bookshelf.js ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikefrey/bookshelf-proxy-model.git"
+  },
+  "keywords": [
+    "bookshelf",
+    "bookshelf.js",
+    "orm",
+    "model",
+    "proxy"
+  ],
+  "author": "Mike Frey <frey.mike@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikefrey/bookshelf-proxy-model/issues"
+  },
+  "homepage": "https://github.com/mikefrey/bookshelf-proxy-model#readme",
+  "devDependencies": {
+    "bookshelf": "^0.10.2",
+    "code": "^4.0.0",
+    "knex": "^0.12.5",
+    "lab": "^11.1.0"
+  }
+}
